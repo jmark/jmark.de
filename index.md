@@ -21,8 +21,3 @@ Repositories
 
 Impressum
   : [impressum.txt](impressum.txt)
-mail@lucidco.de
-http://www.lucidco.de
-https://www.lucidco.de
-
-   
